@@ -43,18 +43,18 @@ Public preview is enabled on a per-user basis, and the option to turn on public 
 
 1. Select **Add** to create a new policy or select an existing policy to open **Update policy**.
 
-2. Name the update policy, add a description, and select the setting for **Show preview features**.
+2. Name the update policy, add a description, and select the setting for **Allow public preview**.
 
    -   **Follow Office Preview** (default)
-       - This default option enables Teams Public Preview features for any user enrolled in Office Current Channel. 
+       - This default option enables Teams Public Preview features for any user enrolled in Office Current Channel (Preview). 
        - There are no more actions required by the end user.
        
    -   **Enabled**
-       - This option enables Teams Public Preview regardless of whether a user is enrolled in Office Current Channel. 
+       - This option enables Teams Public Preview regardless of whether a user is enrolled in Office Current Channel (Preview). 
        - The end user must also opt in to Teams public preview in their Teams app.
 
    > [!NOTE]  
-   > For existing users in Teams Public Preview who are not in the **Current Channel**, IT admins need to switch from default, **Follow Office Preview** to **Enabled**.
+   > For existing users in Teams Public Preview who are not in the **Office Current Channel (Preview)**, IT admins need to switch from default, **Follow Office Preview** to **Enabled**.
  
    - **Not enabled** 
      - Teams Public Preview features will not be available to end users.
